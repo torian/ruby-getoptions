@@ -17,7 +17,7 @@ Examples
 How to use this module:
 ```ruby
 
-$: File.expand_path('path/to/getoptions/dir')
+$: << File.expand_path('path/to/getoptions/dir')
 
 require 'getoptions'
 
